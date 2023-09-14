@@ -11,7 +11,7 @@ I'm always eager to learn and stay up-to-date with the latest tech trends.
 - Stack Overflow: https://stackoverflow.com/users/22561647/mrrook
 - CodePen:https://codepen.io/MrRock333
 
-📫 Let's connect! Feel free to reach out if you want to collaborate on interesting projects or just chat about [A Shared Interest].
+📫 Let's connect! Feel free to reach out if you want to collaborate on interesting projects or just chat about 
 
 
 
